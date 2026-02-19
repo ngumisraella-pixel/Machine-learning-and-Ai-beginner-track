@@ -600,6 +600,162 @@ If you find errors in the course materials:
 
 ---
 
+## 📚 Comprehensive Learning Resources by Topic
+
+### **Chapter 0: Platforms & Tools - Setup & Foundations**
+
+**Python & Environment:**
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Real Python Tutorials](https://realpython.com/)
+- [Virtual Environments Guide](https://docs.python.org/3/library/venv.html)
+
+**Git & Version Control:**
+- [Git Official Book](https://git-scm.com/book/en/v2)
+- [GitHub Learning Lab](https://lab.github.com/)
+- [Oh Shit, Git!?!](https://ohshitgit.com/) - Common problems and solutions
+
+**IDEs & Notebooks:**
+- [Jupyter Documentation](https://jupyter.org/documentation)
+- [VS Code Python Guide](https://code.visualstudio.com/docs/languages/python)
+-[Kaggle Notebooks](https://kaggle.com/notebooks) - See real examples
+
+**ML Libraries:**
+- [NumPy Documentation](https://numpy.org/doc/)
+- [Pandas Documentation](https://pandas.pydata.org/)
+- [Scikit-learn Guide](https://scikit-learn.org/)
+- [Matplotlib & Seaborn](https://matplotlib.org/)
+
+---
+
+### **Chapter 1: Python & NLP - Text Processing**
+
+**Python Advanced:**
+- [Real Python - List Comprehensions](https://realpython.com/list-comprehensions-and-generator-expressions/)
+- [Python Data Structures Complexity](https://www.bigocheatsheet.com/)
+- [LeetCode Python Problems](https://leetcode.com/problemset/all/?difficulty=EASY&topicSlugs=array)
+
+**Regular Expressions:**
+- [Python re Module](https://docs.python.org/3/library/re.html)
+- [Regex101 Interactive Tool](https://regex101.com/)
+- [Real Python - Regex Basics](https://realpython.com/regex-python-basics/)
+
+**NLP Foundations:**
+- [NLTK Toolkit](https://www.nltk.org/)
+- [spaCy NLP Library](https://spacy.io/)
+- [Hugging Face NLP Course](https://huggingface.co/course)
+
+**Text Processing:**
+- [Stanford NLP Course](https://online.stanford.edu/courses/xcs224n-natural-language-processing-deep-learning)
+- [Text Normalization Guide](https://en.wikipedia.org/wiki/Text_normalization)
+
+---
+
+### **Chapter 2: Data & Search - Data Engineering**
+
+**Data Loading & Manipulation:**
+- [Kaggle - Learn Pandas](https://www.kaggle.com/learn/pandas)
+- [10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+- [Data Loading Best Practices](https://realpython.com/working-with-files-in-python/)
+
+**Web Scraping:**
+- [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Real Python - Web Scraping](https://realpython.com/beautiful-soup-web-scraper-python/)
+- [Requests Library Guide](https://requests.readthedocs.io/)
+
+**Data Visualization:**
+- [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+- [Seaborn Examples](https://seaborn.pydata.org/examples.html)
+- [Kaggle - Data Visualization](https://www.kaggle.com/learn/data-visualization)
+
+**Information Retrieval:**
+- [Stanford IR Book](https://nlp.stanford.edu/IR-book/)
+- [Wikipedia - Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
+- [TF-IDF Explained](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+
+**Search & Ranking:**
+- [ElasticSearch Guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+- [Learning to Rank](https://en.wikipedia.org/wiki/Learning_to_rank)
+
+---
+
+### **Chapter 3: ML Algorithms - Core Concepts**
+
+**Linear Algebra Foundations:**
+- [3Blue1Brown - Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [Essence of Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+**Optimization & Gradient Descent:**
+- [Gradient Descent Explained](https://en.wikipedia.org/wiki/Gradient_descent)
+- [StatQuest - Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+- [Optimizers Comparison](https://www.ruder.io/optimizing-gradient-descent/)
+
+**Classification & Trees:**
+- [Decision Trees Explained](https://en.wikipedia.org/wiki/Decision_tree)
+- [StatQuest - Decision Trees](https://www.youtube.com/playlist?list=PLblh5JKOoLUIE6oDioVv8sXvzc1QmKKpd)
+- [Random Forests](https://en.wikipedia.org/wiki/Random_forest)
+
+**Dimensionality Reduction:**
+- [PCA Explained](https://en.wikipedia.org/wiki/Principal_component_analysis)
+- [StatQuest - PCA](https://www.youtube.com/watch?v=_UVHneBUenI)
+- [Eigenvalues & Eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
+
+**Reinforcement Learning:**
+- [Sutton & Barto - RL Book](http://incompleteideas.net/book/the-book-2nd.html)
+- [OpenAI Spinning Up](https://spinningup.openai.com/)
+- [Q-Learning Tutorial](https://www.youtube.com/watch?v=yMk_XwIlNjY)
+
+**Scikit-learn Resources:**
+- [Official Scikit-learn Guide](https://scikit-learn.org/stable/user_guide.html)
+- [Hands-On Machine Learning](https://github.com/ageron/handson-ml2)
+
+---
+
+### **Chapter 4: Capstone & Specialization**
+
+**System Design:**
+- [System Design Interview](https://github.com/donnemartin/system-design-primer)
+- [ML System Design](https://github.com/chiphuyen/machine-learning-systems-design)
+
+**Deployment:**
+- [Streamlit Docs](https://docs.streamlit.io/)
+- [Flask Machine Learning](https://flask.palletsprojects.com/)
+- [Docker for ML](https://www.docker.com/products/docker-desktop)
+
+**Advanced Topics:**
+- [Papers with Code](https://paperswithcode.com/)
+- [ArXiv ML Papers](https://arxiv.org/list/cs.LG/recent)
+- [Fast.ai Courses](https://www.fast.ai/)
+
+---
+
+### **Communities & Support**
+
+**Q&A & Forums:**
+- [Stack Overflow - Python](https://stackoverflow.com/questions/tagged/python)
+- [Stack Overflow - Machine Learning](https://stackoverflow.com/questions/tagged/machine-learning)
+- [Reddit - r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+- [Reddit - r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+
+**Learning Platforms:**
+- [Kaggle Learn](https://www.kaggle.com/learn)
+- [Coursera ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+- [edX ML Courses](https://www.edx.org/)
+- [DataCamp](https://www.datacamp.com/)
+
+**Datasets & Competitions:**
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [UCI ML Repository](https://archive.ics.uci.edu/ml/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
+
+**Podcasts & Interviews:**
+- [Data Skeptic](https://dataskeptic.com/)
+- [Machine Learning Guide](https://ocdevel.com/mlg)
+- [Gradient Descent](https://www.gradientdescent.ai/)
+
+---
+
 ## 📜 License & Attribution
 
 This internship program is designed to teach fundamental ML concepts through hands-on implementation.
@@ -615,9 +771,8 @@ The journey to becoming an ML engineer starts with understanding the fundamental
 **Your first step:**
 ```bash
 cd 1-Month-ML-Internship
-cd Chapter-1-Python-NLP-Architecture
-cd Part-1
-# Open Part-1-Advanced-Python.md and start reading!
+cd Chapter-0-Platforms-Tools
+# Start with Part-1-Python-Environment.md
 ```
 
 **Good luck! You've got this! 🚀**
@@ -625,5 +780,4 @@ cd Part-1
 ---
 
 **Last Updated:** February 19, 2026  
-**Program Version:** 1.0 - Complete and Structured  
-**Status:** Ready for Students
+**Program Version:** 1.0 - Complete with Resources
