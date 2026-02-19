@@ -234,4 +234,35 @@ class DocumentToIDMapper:
 
 ---
 
+## 📚 Additional Resources & Learning Links
+
+### **File Operations in Python**
+- **Python os Module:** [docs.python.org/3/library/os.html](https://docs.python.org/library/os.html)
+  - Official documentation for file and directory operations
+  
+- **Python glob Module:** [docs.python.org/3/library/glob.html](https://docs.python.org/3/library/glob.html)
+  - Pathlib and glob for file pattern matching
+  
+- **Real Python - Working with Files:** [realpython.com/working-with-files-in-python](https://realpython.com/working-with-files-in-python/)
+  - Comprehensive guide to file handling
+
+### **Data Structures & Serialization**
+- **JSON in Python:** [docs.python.org/3/library/json.html](https://docs.python.org/3/library/json.html)
+  - JSON encoding and decoding
+  
+- **Pickle Serialization:** [docs.python.org/3/library/pickle.html](https://docs.python.org/3/library/pickle.html)
+  - Object serialization for complex Python objects
+  
+- **Performance Tips:** [Real Python - Faster Serialization](https://realpython.com/the-most-diabolical-python-antipattern/)
+  - Best practices for serialization
+
+### **Indexing & Information Retrieval**
+- **Inverted Index Explained:** [Wikipedia - Inverted Index](https://en.wikipedia.org/wiki/Inverted_index)
+  - Mathematical foundation of search indexes
+  
+- **Building Search Engines:** [Real Python - Search](https://realpython.com/full-text-search-in-python/)
+  - Full-text search implementation
+
+---
+
 **[← Back to Chapter 1](./README.md)** | **[Day 3 Exercises →](./Day-3-Exercises.md)**
