@@ -371,6 +371,23 @@ df = pipeline.load_csv('data.csv') \
 
 ---
 
-## 🔗 Navigation
+## � Additional Resources & Learning Links
+
+### **Pandas & Data Loading**
+- **Pandas I/O Tools:** [pandas.pydata.org/docs/user_guide/io.html](https://pandas.pydata.org/docs/user_guide/io.html)
+- **10 Minutes to Pandas:** [pandas.pydata.org/docs/user_guide/10min.html](https://pandas.pydata.org/docs/user_guide/10min.html)
+- **Kaggle Pandas Course:** [kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)
+
+### **Web Scraping**
+- **BeautifulSoup Docs:** [beautifulsoup4.readthedocs.io](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- **Real Python - Web Scraping:** [realpython.com/beautiful-soup-web-scraper](https://realpython.com/beautiful-soup-web-scraper-python/)
+
+### **Data Exploration**
+- **Kaggle EDA:** [kaggle.com/learn/data-visualization](https://www.kaggle.com/learn/data-visualization)
+- **Exploratory Data Analysis:** [Wikipedia - EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+
+---
+
+## �🔗 Navigation
 
 **[← Back to Chapter 2](../README.md)** | **[Day 1 Exercises →](./Day-1-Exercises.md)**
