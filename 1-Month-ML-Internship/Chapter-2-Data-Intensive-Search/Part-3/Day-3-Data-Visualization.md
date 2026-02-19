@@ -305,6 +305,35 @@ viz.generate_report()
 
 ---
 
-## 🔗 Navigation
+## � Additional Resources & Learning Links
+
+### **Matplotlib Fundamentals**
+- [Matplotlib Official Gallery](https://matplotlib.org/stable/gallery/index) - 300+ examples with source code
+- [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html) - Official step-by-step guide
+- [Real Python Matplotlib](https://realpython.com/python-matplotlib-guide/) - Comprehensive tutorial
+
+### **Seaborn Visualization**
+- [Seaborn Gallery](https://seaborn.pydata.org/examples.html) - Beautiful statistical visualizations
+- [Seaborn Documentation](https://seaborn.pydata.org/) - Official API reference
+- [Visualizing Distributions](https://seaborn.pydata.org/tutorial/distributions.html) - Detailed distribution guide
+
+### **Exploratory Data Analysis (EDA)**
+- [EDA Best Practices](https://www.kaggle.com/learn/exploratory-data-analysis) - Kaggle's interactive EDA course
+- [EDA Tutorial](https://realpython.com/exploratory-data-analysis-python/) - Real Python comprehensive guide
+- [Data Quality Assessment](https://en.wikipedia.org/wiki/Data_quality) - Understanding data quality dimensions
+
+### **Advanced Plotting**
+- [Plotly Python](https://plotly.com/python/) - Interactive web-based visualizations
+- [Bokeh Visualization](https://docs.bokeh.org/en/latest/) - Interactive browser-based visualization
+- [Altair Grammar of Graphics](https://altair-viz.github.io/) - Declarative visualization library
+
+### **Visualization Design**
+- [Storytelling with Data](https://www.storytellingwithdata.com/) - Edward Tufte's principles
+- [Color Theory in Visualization](https://colorbrewer2.org/) - Scientific color schemes
+- [Visualization Best Practices](https://en.wikipedia.org/wiki/Data_visualization) - Wikipedia principles
+
+---
+
+## �🔗 Navigation
 
 **[← Back to Chapter 2](../README.md)** | **[Day 3 Exercises →](./Day-3-Exercises.md)**
