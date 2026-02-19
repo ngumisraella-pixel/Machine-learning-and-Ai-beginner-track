@@ -210,4 +210,39 @@ class TinyNLPEngineFull:
 
 ---
 
+## 📚 Additional Resources & Learning Links
+
+### **NLP Pipelines & Architecture**
+- **Building NLP Pipelines:** [Real Python - NLP Pipelines](https://realpython.com/build-a-chatbot-with-python/)
+  - Complete end-to-end NLP project
+
+- **NLTK Ecosystem:** [nltk.org](https://www.nltk.org/)
+  - Comprehensive NLP toolkit
+  
+- **spaCy Industrial NLP:** [spacy.io](https://spacy.io/)
+  - Production-grade NLP library
+
+### **System Design & CLI**
+- **Python argparse:** [docs.python.org/3/library/argparse.html](https://docs.python.org/3/library/argparse.html)
+  - Complete argparse documentation
+  
+- **Click CLI Framework:** [click.palletsprojects.com](https://click.palletsprojects.com/)
+  - Modern Python CLI development
+  
+- **Software Design Patterns:** [refactoring.guru](https://refactoring.guru/)
+  - Design patterns including modular architecture
+
+### **Production NLP**
+- **Hugging Face Transformers:** [huggingface.co/docs/transformers](https://huggingface.co/docs/transformers/)
+  - State-of-the-art NLP models
+  
+- **Deploying NLP Models:** [Real Python - Deploy ML](https://realpython.com/flask-by-example-part-1-simple-blog-crud-application/)
+  - How to put your model in production
+
+### **Project Examples**
+- **GitHub - NLP Projects:** [github.com/topics/nlp-projects](https://github.com/topics/nlp)
+  - Real-world NLP implementations
+
+---
+
 **[← Back to Chapter 1](./README.md)** | **[Day 5 Exercises →](./Day-5-Exercises.md)**
