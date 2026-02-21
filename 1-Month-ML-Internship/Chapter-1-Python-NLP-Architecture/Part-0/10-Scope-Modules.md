@@ -1,47 +1,64 @@
-# 10: Scope & Modules
+# 10: Scope & Modules - Organizing Code
 
-**Duration:** 40 minutes | **Difficulty:** Intermediate | **Key Skill:** Understanding variable scope
+**Duration:** 50 minutes | **Difficulty:** Beginner | **Key Skill:** Code organization
 
 ---
 
 ## í¾¯ What You'll Learn
 
-- Global vs local variables
+- Local vs global scope
+- Understanding variable visibility
 - Importing modules
-- Using built-in and third-party modules
+- Using built-in modules
 
 ---
 
-## í³š Variable Scope
+## í³š Scope
+
+### Local Scope
 
 \`\`\`python
-# Global variable
-x = 10
+def my_function():
+    local_var = 10  # Local to function
+    print(local_var)
 
-def func():
-    # Local variable
-    y = 20
-    print(x)  # Can access global
-    print(y)  # Can access local
+my_function()  # Works
+# print(local_var)  # ERROR - not accessible outside
+\`\`\`
 
-func()
-print(x)  # 10
-# print(y)  # ERROR - y doesn't exist here
+### Global Scope
+
+\`\`\`python
+global_var = 20  # Global
+
+def access_global():
+    print(global_var)  # Can access
+
+access_global()  # Works - prints 20
 \`\`\`
 
 ## í³š Modules
 
+### Import Modules
+
 \`\`\`python
-# Import entire module
 import math
-print(math.sqrt(16))  # 4.0
+print(math.pi)
 
-# Import specific function
 from math import sqrt
-print(sqrt(16))  # 4.0
+print(sqrt(16))
 
-# Import with alias
 import numpy as np
 \`\`\`
+
+---
+
+## í´‘ Key Takeaways
+
+âœ… Local variables exist only in their function
+âœ… Global variables accessible everywhere
+âœ… Modules extend Python functionality
+âœ… import brings in entire module
+âœ… from...import brings specific items
 
 ---
