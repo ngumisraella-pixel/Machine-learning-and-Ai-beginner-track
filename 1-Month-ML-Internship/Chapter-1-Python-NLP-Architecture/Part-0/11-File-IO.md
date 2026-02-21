@@ -1,6 +1,6 @@
 # 11: File I/O - Reading & Writing Files
 
-**Duration:** 45 minutes | **Difficulty:** Intermediate | **Key Skill:** Working with files
+**Duration:** 50 minutes | **Difficulty:** Beginner | **Key Skill:** Data persistence
 
 ---
 
@@ -8,18 +8,17 @@
 
 - Reading files
 - Writing files
-- Working with file paths
-- CSV and JSON basics
+- Appending to files
+- Closing files with context managers
 
 ---
 
 ## í³š Reading Files
 
 \`\`\`python
-# Read entire file
+# Open and read
 with open("data.txt", "r") as file:
     content = file.read()
-    print(content)
 
 # Read line by line
 with open("data.txt", "r") as file:
@@ -27,14 +26,14 @@ with open("data.txt", "r") as file:
         print(line.strip())
 \`\`\`
 
-## í³š Writing Files
+### Writing Files
 
 \`\`\`python
-# Write to file
+# Write (overwrites)
 with open("output.txt", "w") as file:
     file.write("Hello, World!")
 
-# Append to file
+# Append (adds to end)
 with open("output.txt", "a") as file:
     file.write("\nNew line")
 \`\`\`
@@ -44,10 +43,24 @@ with open("output.txt", "a") as file:
 ## í·  ML Context
 
 \`\`\`python
-# Save predictions
-with open("predictions.txt", "w") as f:
-    for pred in predictions:
-        f.write(f"{pred}\n")
+# Read dataset
+with open("dataset.csv", "r") as file:
+    lines = file.readlines()
+
+# Process and write results
+with open("results.txt", "w") as file:
+    for line in lines:
+        processed = line.strip()
+        file.write(processed + "\n")
 \`\`\`
+
+---
+
+## í´‘ Key Takeaways
+
+âœ… Use "with" for automatic file closing
+âœ… "r" reads, "w" writes, "a" appends
+âœ… File I/O is critical for datasets
+âœ… Always close files to prevent data loss
 
 ---
